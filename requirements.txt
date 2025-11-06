@@ -1,0 +1,10 @@
+Requirement
+scikit-learn==1.7.1
+xgboost==2.1.1
+Numpy ==2.3.3
+Imbalanced-learn==0.14.0
+pandas==2.3.2
+streamlit==1.51.0
+joblib==1.5.2
+dill==0.4.0
+matplotlib==3.10.6
